@@ -30,6 +30,7 @@ export default {
     });
 
     console.log("hello and welcome to the branch");
+    console.log("hello gitHub");
   },
 };
 </script>
