@@ -28,7 +28,8 @@ export default {
       const { data: data } = res;
       this.product = data;
     });
-    console.log(hello);
+
+    console.log("hello and welcome to the branch");
   },
 };
 </script>
